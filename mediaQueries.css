@@ -42,9 +42,9 @@
         margin-top: 0;
     }
 
-    .coming-soon {
-        font-size: 3rem;
-        text-align: center;
+    .weather-app {
+
+        width: 609px;
     }
 }
 
@@ -135,7 +135,7 @@
         text-align: justify;
     }
 
-    .coming-soon {
-        font-size: 1.50rem;
+    .weather-app {
+        width: 300px;
     }
 }
